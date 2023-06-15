@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hocvanchihien
+- 👋 Hello, I’m @hocvanchihien
 - 👀 I’m interested in vietnam
 - 🌱 I’m currently learning lectuture
 - 💞️ I’m looking to collaborate on: [hocvanchihien](hocvanchihien.com)
